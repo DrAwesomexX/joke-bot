@@ -2,10 +2,7 @@
     {
         "title": "The Shawshank Redemption",
         "year": "1994",
-        "genre":
-        
-            "Action"
-        ,
+        "genre":"Drama",
         "ratings": [
             8,
             8,
@@ -56,10 +53,7 @@
     {
         "title": "The Godfather",
         "year": "1972",
-        "genre": 
-            "Crime"
-            
-        ,
+        "genre":"Crime",
         "ratings": [
             6,
             10,
@@ -110,10 +104,7 @@
     {
         "title": "The Godfather: Part II",
         "year": "1974",
-        "genres": [
-            "Crime",
-            "Drama"
-        ],
+        "genre":"Crime",
         "ratings": [
             2,
             5,
@@ -164,11 +155,8 @@
     {
         "title": "The Dark Knight",
         "year": "2008",
-        "genre":
-            "Action",
-            
-        
-        "ratings": [
+        "genre":"Action",  
+        "ratings":[
             3,
             6,
             4,
@@ -218,10 +206,7 @@
     {
         "title": "12 Angry Men",
         "year": "1957",
-        "genre": 
-            "Crime",
-           
-        
+        "genre":"Drama",
         "ratings": [
             3,
             5,
@@ -272,11 +257,7 @@
     {
         "title": "Schindler's List",
         "year": "1993",
-        "genres": [
-            "Biography",
-            "Drama",
-            "History"
-        ],
+        "genre": "Drama",
         "ratings": [
             2,
             6,
@@ -327,10 +308,7 @@
     {
         "title": "Pulp Fiction",
         "year": "1994",
-        "genres": [
-            "Crime",
-            "Drama"
-        ],
+        "genre":"Drama",
         "ratings": [
             2,
             9,
@@ -381,11 +359,7 @@
     {
         "title": "The Lord of the Rings: The Return of the King",
         "year": "2003",
-        "genres": [
-            "Adventure",
-            "Drama",
-            "Fantasy"
-        ],
+        "genre":"Adventure",
         "ratings": [
             6,
             3,
@@ -437,9 +411,7 @@
     {
         "title": "Fight Club",
         "year": "1999",
-        "genres": [
-            "Drama"
-        ],
+        "genre":"Drama",
         "ratings": [
             6,
             5,
@@ -490,11 +462,7 @@
     {
         "title": "The Lord of the Rings: The Fellowship of the Ring",
         "year": "2001",
-        "genres": [
-            "Adventure",
-            "Drama",
-            "Fantasy"
-        ],
+        "genre":"Adventure",
         "ratings": [
             1,
             2,
@@ -545,11 +513,7 @@
     {
         "title": "Star Wars: Episode V - The Empire Strikes Back",
         "year": "1980",
-        "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ],
+        "genre":"Action",
         "ratings": [
             2,
             3,
@@ -600,11 +564,7 @@
     {
         "title": "Forrest Gump",
         "year": "1994",
-        "genres": [
-            "Comedy",
-            "Drama",
-            "Romance"
-        ],
+        "genre":"Comedy",
         "ratings": [
             9,
             1,
@@ -655,11 +615,7 @@
     {
         "title": "Inception",
         "year": "2010",
-        "genres": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-        ],
+        "genre":"Sci-Fi",
         "ratings": [
             4,
             8,
@@ -710,11 +666,7 @@
     {
         "title": "The Lord of the Rings: The Two Towers",
         "year": "2002",
-        "genres": [
-            "Adventure",
-            "Drama",
-            "Fantasy"
-        ],
+        "genre":"Adventure",
         "ratings": [
             8,
             2,
@@ -765,9 +717,7 @@
     {
         "title": "One Flew Over the Cuckoo's Nest",
         "year": "1975",
-        "genres": [
-            "Drama"
-        ],
+        "genre":"Drama",
         "ratings": [
             2,
             8,
@@ -818,11 +768,7 @@
     {
         "title": "Goodfellas",
         "year": "1990",
-        "genres": [
-            "Biography",
-            "Crime",
-            "Drama"
-        ],
+        "genre":"Crime",
         "ratings": [
             5,
             9,
@@ -873,10 +819,7 @@
     {
         "title": "Matrix",
         "year": "1999",
-        "genres": [
-            "Action",
-            "Sci-Fi"
-        ],
+        "genre":"Sci-Fi",
         "ratings": [
             10,
             10,
@@ -928,11 +871,7 @@
     {
         "title": "Star Wars",
         "year": "1977",
-        "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ],
+        "genre":"Action",
         "ratings": [
             6,
             3,
@@ -983,10 +922,8 @@
     {
         "title": "Guds stad",
         "year": "2002",
-        "genres": [
-            "Crime",
-            "Drama"
-        ],
+        "genre":"Crime",
+            
         "ratings": [
             1,
             2,
@@ -1037,11 +974,7 @@
     {
         "title": "Seven",
         "year": "1995",
-        "genres": [
-            "Crime",
-            "Drama",
-            "Mystery"
-        ],
+        "genre":"Crime",
         "ratings": [
             2,
             5,
@@ -1092,12 +1025,8 @@
     {
         "title": "The Silence of the Lambs",
         "year": "1991",
-        "genres": [
-            "Crime",
-            "Drama",
-            "Thriller"
-        ],
-        "ratings": [
+        "genre":"Drama",
+         "ratings": [
             6,
             10,
             7,
@@ -1147,11 +1076,7 @@
     {
         "title": "It's a Wonderful Life",
         "year": "1946",
-        "genres": [
-            "Drama",
-            "Family",
-            "Fantasy"
-        ],
+        "genre":"Drama",
         "ratings": [
             1,
             4,
@@ -1202,11 +1127,7 @@
     {
         "title": "The Usual Suspects",
         "year": "1995",
-        "genres": [
-            "Crime",
-            "Drama",
-            "Mystery"
-        ],
+        "genre":"Crime",
         "ratings": [
             5,
             8,
@@ -1257,11 +1178,7 @@
     {
         "title": "Spirited Away",
         "year": "2001",
-        "genres": [
-            "Animation",
-            "Adventure",
-            "Family"
-        ],
+        "genre":"Adventure",
         "ratings": [
             4,
             8,
@@ -1312,10 +1229,7 @@
     {
         "title": "Saving Private Ryan",
         "year": "1998",
-        "genres": [
-            "Drama",
-            "War"
-        ],
+        "genre":"Drama",    
         "ratings": [
             9,
             7,
@@ -1366,10 +1280,7 @@
     {
         "title": "American History X",
         "year": "1998",
-        "genres": [
-            "Crime",
-            "Drama"
-        ],
+        "genre":"Crime",
         "ratings": [
             10,
             4,
@@ -1420,11 +1331,7 @@
     {
         "title": "Interstellar",
         "year": "2014",
-        "genres": [
-            "Adventure",
-            "Drama",
-            "Sci-Fi"
-        ],
+        "genre":"Sci-Fi",
         "ratings": [
             7,
             9,
@@ -1475,11 +1382,7 @@
     {
         "title": "Casablanca",
         "year": "1942",
-        "genres": [
-            "Drama",
-            "Romance",
-            "War"
-        ],
+        "genre":"Drama",
         "ratings": [
             2,
             10,
@@ -1527,69 +1430,11 @@
         "imdbRating": 8.6,
         "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY377_SX250_AL_.jpg"
     },
-    {
-        "title": "Psycho",
-        "year": "1960",
-        "genres": [
-            "Horror",
-            "Mystery",
-            "Thriller"
-        ],
-        "ratings": [
-            1,
-            6,
-            3,
-            4,
-            9,
-            5,
-            7,
-            1,
-            4,
-            7,
-            10,
-            4,
-            3,
-            9,
-            5,
-            2,
-            2,
-            7,
-            2,
-            8,
-            8,
-            10,
-            10,
-            4,
-            3,
-            5,
-            8,
-            5,
-            1,
-            1
-        ],
-        "poster": "MV5BMDI3OWRmOTEtOWJhYi00N2JkLTgwNGItMjdkN2U0NjFiZTYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY500_CR0,0,331,500_AL_.jpg",
-        "contentRating": "",
-        "duration": "PT109M",
-        "releaseDate": "1960-10-31",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "Phoenix officeworker Marion Crane is fed up with the way life has treated her. She has to meet her lover Sam in lunch breaks and they cannot get married because Sam has to give most of his money away in alimony. One Friday Marion is trusted to bank $40,000 by her employer. Seeing the opportunity to take the money and start a new life, Marion leaves town and heads towards Sam's California store. Tired after the long drive and caught in a storm, she gets off the main highway and pulls into The Bates Motel. The motel is managed by a quiet young man called Norman who seems to be dominated by his mother.                Written by\nCol Needham <col@imdb.com>",
-        "actors": [
-            "Anthony Perkins",
-            "Janet Leigh",
-            "Vera Miles"
-        ],
-        "imdbRating": 8.5,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDI3OWRmOTEtOWJhYi00N2JkLTgwNGItMjdkN2U0NjFiZTYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY500_CR0,0,331,500_AL_.jpg"
-    },
+
     {
         "title": "City Lights",
         "year": "1931",
-        "genres": [
-            "Comedy",
-            "Drama",
-            "Romance"
-        ],
+        "genre":"Comedy",
         "ratings": [
             1,
             5,
@@ -1640,11 +1485,7 @@
     {
         "title": "The Green Mile",
         "year": "1999",
-        "genres": [
-            "Crime",
-            "Drama",
-            "Fantasy"
-        ],
+        "genre":"Crime",    
         "ratings": [
             3,
             3,
@@ -1695,11 +1536,8 @@
     {
         "title": "Intouchables",
         "year": "2011",
-        "genres": [
-            "Biography",
-            "Comedy",
-            "Drama"
-        ],
+        "genre":"Comedy",
+           
         "ratings": [
             4,
             6,
@@ -1750,11 +1588,7 @@
     {
         "title": "Modern Times",
         "year": "1936",
-        "genres": [
-            "Comedy",
-            "Drama",
-            "Family"
-        ],
+        "genre":"Comedy",
         "ratings": [
             8,
             2,
@@ -1805,10 +1639,7 @@
     {
         "title": "Raiders of the Lost Ark",
         "year": "1981",
-        "genres": [
-            "Action",
-            "Adventure"
-        ],
+        "genre":"Adventure",
         "ratings": [
             1,
             9,
@@ -1857,67 +1688,10 @@
         "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SY500_CR0,0,332,500_AL_.jpg"
     },
     {
-        "title": "Rear Window",
-        "year": "1954",
-        "genres": [
-            "Mystery",
-            "Thriller"
-        ],
-        "ratings": [
-            9,
-            4,
-            1,
-            2,
-            8,
-            9,
-            3,
-            2,
-            7,
-            3,
-            8,
-            6,
-            10,
-            7,
-            2,
-            6,
-            1,
-            3,
-            10,
-            10,
-            5,
-            1,
-            7,
-            5,
-            2,
-            2,
-            6,
-            3,
-            9,
-            2
-        ],
-        "poster": "MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY500_CR0,0,341,500_AL_.jpg",
-        "contentRating": "15",
-        "duration": "PT112M",
-        "releaseDate": "1955-06-13",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "Professional photographer L.B. \"Jeff\" Jeffries breaks his leg while getting an action shot at an auto race. Confined to his New York apartment, he spends his time looking out of the rear window observing the neighbors. He begins to suspect that a man across the courtyard may have murdered his wife. Jeff enlists the help of his high society fashion-consultant girlfriend Lisa Freemont and his visiting nurse Stella to investigate.                Written by\nCol Needham <col@imdb.com>",
-        "actors": [
-            "James Stewart",
-            "Grace Kelly",
-            "Wendell Corey"
-        ],
-        "imdbRating": 8.5,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY500_CR0,0,341,500_AL_.jpg"
-    },
-    {
         "title": "The Pianist",
         "year": "2002",
-        "genres": [
-            "Biography",
-            "Drama",
-            "War"
-        ],
+        "genre":"Drama",
+           
         "ratings": [
             10,
             8,
@@ -1968,11 +1742,7 @@
     {
         "title": "The Departed",
         "year": "2006",
-        "genres": [
-            "Crime",
-            "Drama",
-            "Thriller"
-        ],
+        "genre":"Crime",
         "ratings": [
             4,
             7,
@@ -2023,11 +1793,7 @@
     {
         "title": "Terminator 2: Judgment Day",
         "year": "1991",
-        "genres": [
-            "Action",
-            "Sci-Fi",
-            "Thriller"
-        ],
+        "genre":"Action",
         "ratings": [
             4,
             3,
@@ -2078,11 +1844,7 @@
     {
         "title": "Back to the Future",
         "year": "1985",
-        "genres": [
-            "Adventure",
-            "Comedy",
-            "Sci-Fi"
-        ],
+        "genre":"Comedy",
         "ratings": [
             10,
             8,
@@ -2133,10 +1895,8 @@
     {
         "title": "Whiplash",
         "year": "2014",
-        "genres": [
-            "Drama",
-            "Music"
-        ],
+        "genre":"Drama",
+           
         "ratings": [
             4,
             1,
@@ -2187,11 +1947,7 @@
     {
         "title": "Gladiator",
         "year": "2000",
-        "genres": [
-            "Action",
-            "Adventure",
-            "Drama"
-        ],
+        "genre":"Drama",
         "ratings": [
             4,
             4,
@@ -2240,121 +1996,9 @@
         "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwMzQzNTQ1Ml5BMl5BanBnXkFtZTgwMDY2NTYxMTE@._V1_SY500_CR0,0,337,500_AL_.jpg"
     },
     {
-        "title": "Memento",
-        "year": "2000",
-        "genres": [
-            "Mystery",
-            "Thriller"
-        ],
-        "ratings": [
-            6,
-            5,
-            6,
-            4,
-            10,
-            2,
-            3,
-            7,
-            2,
-            8,
-            10,
-            7,
-            9,
-            6,
-            7,
-            2,
-            5,
-            5,
-            3,
-            10,
-            2,
-            9,
-            8,
-            5,
-            3,
-            3,
-            7,
-            1,
-            1,
-            7
-        ],
-        "poster": "MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,340,500_AL_.jpg",
-        "contentRating": "15",
-        "duration": "PT113M",
-        "releaseDate": "2001-07-13",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "Memento chronicles two separate stories of Leonard, an ex-insurance investigator who can no longer build new memories, as he attempts to find the murderer of his wife, which is the last thing he remembers. One story line moves forward in time while the other tells the story backwards revealing more each time.                Written by\nScion013",
-        "actors": [
-            "Guy Pearce",
-            "Carrie-Anne Moss",
-            "Joe Pantoliano"
-        ],
-        "imdbRating": 8.5,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,340,500_AL_.jpg"
-    },
-    {
-        "title": "Apocalypse",
-        "year": "1979",
-        "genres": [
-            "Drama",
-            "War"
-        ],
-        "ratings": [
-            4,
-            4,
-            4,
-            7,
-            2,
-            5,
-            8,
-            2,
-            7,
-            6,
-            4,
-            2,
-            1,
-            1,
-            1,
-            10,
-            9,
-            4,
-            3,
-            1,
-            1,
-            6,
-            3,
-            1,
-            10,
-            9,
-            1,
-            6,
-            9,
-            6
-        ],
-        "poster": "MV5BODViM2VjYWYtMzU5Ny00ZjczLWEzNjMtODZmNGMwZDAxNzJkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY370_CR0,0,242,370_AL_.jpg",
-        "contentRating": "15",
-        "duration": "PT153M",
-        "releaseDate": "1979-10-26",
-        "averageRating": 0,
-        "originalTitle": "Apocalypse Now",
-        "storyline": "It is the height of the war in Vietnam, and U.S. Army Captain Willard is sent by Colonel Lucas and a General to carry out a mission that, officially, 'does not exist - nor will it ever exist'. The mission: To seek out a mysterious Green Beret Colonel, Walter Kurtz, whose army has crossed the border into Cambodia and is conducting hit-and-run missions against the Viet Cong and NVA. The army believes Kurtz has gone completely insane and Willard's job is to eliminate him! Willard, sent up the Nung River on a U.S. Navy patrol boat, discovers that his target is one of the most decorated officers in the U.S. Army. His crew meets up with surfer-type Lt-Colonel Kilgore, head of a U.S Army helicopter cavalry group which eliminates a Viet Cong outpost to provide an entry point into the Nung River. After some hair-raising encounters, in which some of his crew are killed, Willard, Lance and Chef reach Colonel Kurtz's outpost, beyond the Do Lung Bridge. Now, after becoming prisoners of Kurtz, will...                Written by\nDerek O'Cain",
-        "actors": [
-            "Martin Sheen",
-            "Marlon Brando",
-            "Robert Duvall"
-        ],
-        "imdbRating": 8.5,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BODViM2VjYWYtMzU5Ny00ZjczLWEzNjMtODZmNGMwZDAxNzJkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY370_CR0,0,242,370_AL_.jpg"
-    },
-    {
         "title": "The Prestige",
         "year": "2006",
-        "genres": [
-            "Drama",
-            "Mystery",
-            "Sci-Fi"
-        ],
+        "genre":"Drama",
         "ratings": [
             10,
             1,
@@ -2405,11 +2049,7 @@
     {
         "title": "The Lion King",
         "year": "1994",
-        "genres": [
-            "Animation",
-            "Adventure",
-            "Drama"
-        ],
+        "genre":"Adventure",
         "ratings": [
             6,
             7,
@@ -2460,10 +2100,7 @@
     {
         "title": "Alien",
         "year": "1979",
-        "genres": [
-            "Horror",
-            "Sci-Fi"
-        ],
+        "genre":"Sci-Fi",
         "ratings": [
             6,
             10,
@@ -2514,10 +2151,7 @@
     {
         "title": "Sunset Boulevard",
         "year": "1950",
-        "genres": [
-            "Drama",
-            "Film-Noir"
-        ],
+        "genre":"Drama",    
         "ratings": [
             9,
             9,
@@ -2565,68 +2199,10 @@
         "imdbRating": 8.5,
         "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3NDYzODAwNV5BMl5BanBnXkFtZTgwODg1MTczMTE@._V1_SY250_SX166_AL_.jpg"
     },
-    {
-        "title": "The Great Dictator",
-        "year": "1940",
-        "genres": [
-            "Comedy",
-            "Drama",
-            "War"
-        ],
-        "ratings": [
-            10,
-            5,
-            5,
-            1,
-            7,
-            4,
-            9,
-            1,
-            1,
-            4,
-            5,
-            4,
-            3,
-            2,
-            1,
-            3,
-            3,
-            4,
-            5,
-            7,
-            7,
-            4,
-            6,
-            8,
-            10,
-            1,
-            1,
-            8,
-            4,
-            9
-        ],
-        "poster": "MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,338,500_AL_.jpg",
-        "contentRating": "",
-        "duration": "PT125M",
-        "releaseDate": "1945-11-19",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "Twenty years after the end of WWI in which the nation of Tomainia was on the losing side, Adenoid Hynkel has risen to power as the ruthless dictator of the country. He believes in a pure Aryan state, and the decimation of the Jews. This situation is unknown to a simple Jewish-Tomainian barber who has since been hospitalized the result of a WWI battle. Upon his release, the barber, who had been suffering from memory loss about the war, is shown the new persecuted life of the Jews by many living in the Jewish ghetto, including a washerwoman named Hannah, with whom he begins a relationship. The barber is ultimately spared such persecution by Commander Schultz, who he saved in that WWI battle. The lives of all Jews in Tomainia are eventually spared with a policy shift by Hynkel himself, who is doing so for ulterior motives. But those motives include a want for world domination, starting with the invasion of neighboring Osterlich, which may be threatened by Benzino Napaloni, the dictator ...                Written by\nHuggo",
-        "actors": [
-            "Charles Chaplin",
-            "Paulette Goddard",
-            "Jack Oakie"
-        ],
-        "imdbRating": 8.5,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,338,500_AL_.jpg"
-    },
-    {
+      {
         "title": "Django Unchained",
         "year": "2012",
-        "genres": [
-            "Drama",
-            "Western"
-        ],
+        "genre":"Drama",
         "ratings": [
             8,
             4,
@@ -2677,10 +2253,7 @@
     {
         "title": "The Shining",
         "year": "1980",
-        "genres": [
-            "Drama",
-            "Horror"
-        ],
+        "genre":"Drama",
         "ratings": [
             1,
             6,
@@ -2731,11 +2304,7 @@
     {
         "title": "La La Land",
         "year": "2016",
-        "genres": [
-            "Comedy",
-            "Drama",
-            "Musical"
-        ],
+        "genre":"Comedy",
         "ratings": [
             1,
             1,
@@ -2786,11 +2355,7 @@
     {
         "title": "Wall-E",
         "year": "2008",
-        "genres": [
-            "Animation",
-            "Adventure",
-            "Family"
-        ],
+        "genre":"Adventure",
         "ratings": [
             10,
             5,
@@ -2841,10 +2406,7 @@
     {
         "title": "American Beauty",
         "year": "1999",
-        "genres": [
-            "Drama",
-            "Romance"
-        ],
+        "genre":"Drama",
         "ratings": [
             5,
             6,
@@ -2895,10 +2457,7 @@
     {
         "title": "The Dark Knight Rises",
         "year": "2012",
-        "genres": [
-            "Action",
-            "Thriller"
-        ],
+        "genre":"Action",
         "ratings": [
             2,
             5,
@@ -2949,11 +2508,7 @@
     {
         "title": "Aliens",
         "year": "1986",
-        "genres": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-        ],
+        "genre":"Adventure",  
         "ratings": [
             10,
             4,
@@ -3004,10 +2559,7 @@
     {
         "title": "Once Upon a Time in America",
         "year": "1984",
-        "genres": [
-            "Crime",
-            "Drama"
-        ],
+        "genre":"Crime",
         "ratings": [
             5,
             7,
@@ -3058,11 +2610,7 @@
     {
         "title": "Star Wars: Episode VI - Return of the Jedi",
         "year": "1983",
-        "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ],
+        "genre":"Action",
         "ratings": [
             3,
             3,
@@ -3113,11 +2661,7 @@
     {
         "title": "Reservoir Dogs",
         "year": "1992",
-        "genres": [
-            "Crime",
-            "Drama",
-            "Thriller"
-        ],
+        "genre":"Crime",        
         "ratings": [
             10,
             7,
@@ -3168,11 +2712,7 @@
     {
         "title": "Braveheart",
         "year": "1995",
-        "genres": [
-            "Biography",
-            "Drama",
-            "History"
-        ],
+        "genre":"Drama",    
         "ratings": [
             5,
             8,
@@ -3221,120 +2761,9 @@
         "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTMyNGE1ODQtYTNiNS00ZTUyLThhZjktMTgyOGZkZThlYTc3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY500_CR0,0,338,500_AL_.jpg"
     },
     {
-        "title": "Requiem for a Dream",
-        "year": "2000",
-        "genres": [
-            "Drama"
-        ],
-        "ratings": [
-            7,
-            4,
-            5,
-            7,
-            5,
-            10,
-            9,
-            8,
-            6,
-            10,
-            9,
-            2,
-            4,
-            6,
-            3,
-            5,
-            5,
-            1,
-            3,
-            3,
-            7,
-            10,
-            5,
-            2,
-            3,
-            2,
-            4,
-            8,
-            5,
-            7
-        ],
-        "poster": "MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,333,500_AL_.jpg",
-        "contentRating": "15",
-        "duration": "PT102M",
-        "releaseDate": "2001-09-14",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "Sara Goldfarb (Ellen Burstyn) is a retired widow, living in a small apartment. She spends most of her time watching TV, especially a particular self-help show. She has delusions of rising above her current dull existence by being a guest on that show. Her son, Harry (Jared Leto) is a junkie but along with his friend Tyrone (Marlon Wayans) has visions of making it big by becoming a drug dealer. Harry's girlfriend Marion (Jennifer Connelly) could be fashion designer or artist but is swept along in Harry's drug-centric world. Meanwhile Sara has developed an addiction of her own. She desperately wants to lose weight and so goes on a crash course involving popping pills, pills which turn out to be very addictive and harmful to her mental state.                Written by\ngrantss",
-        "actors": [
-            "Ellen Burstyn",
-            "Jared Leto",
-            "Jennifer Connelly"
-        ],
-        "imdbRating": 8.4,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,333,500_AL_.jpg"
-    },
-    {
-        "title": "A Clockwork Orange",
-        "year": "1971",
-        "genres": [
-            "Crime",
-            "Drama",
-            "Sci-Fi"
-        ],
-        "ratings": [
-            4,
-            7,
-            2,
-            6,
-            4,
-            3,
-            8,
-            3,
-            8,
-            5,
-            2,
-            10,
-            10,
-            6,
-            6,
-            10,
-            6,
-            2,
-            7,
-            1,
-            5,
-            7,
-            4,
-            10,
-            9,
-            8,
-            8,
-            4,
-            5,
-            10
-        ],
-        "poster": "MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SY500_CR0,0,337,500_AL_.jpg",
-        "contentRating": "15",
-        "duration": "PT136M",
-        "releaseDate": "1972-04-26",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "Protagonist Alex DeLarge is an \"ultraviolent\" youth in futuristic Britain. As with all luck, his eventually runs out and he's arrested and convicted of murder and rape. While in prison, Alex learns of an experimental program in which convicts are programmed to detest violence. If he goes through the program, his sentence will be reduced and he will be back on the streets sooner than expected. But Alex's ordeals are far from over once he hits the mean streets of Britain that he had a hand in creating.                Written by\nNikki Carlyle",
-        "actors": [
-            "Malcolm McDowell",
-            "Patrick Magee",
-            "Michael Bates"
-        ],
-        "imdbRating": 8.3,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SY500_CR0,0,337,500_AL_.jpg"
-    },
-    {
         "title": "Taxi Driver",
         "year": "1976",
-        "genres": [
-            "Crime",
-            "Drama"
-        ],
+        "genre":"Crime",   
         "ratings": [
             4,
             3,
@@ -3383,123 +2812,9 @@
         "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGQxNDgzZWQtZTNjNi00M2RkLWExZmEtNmE1NjEyZDEwMzA5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY500_CR0,0,327,500_AL_.jpg"
     },
     {
-        "title": "Taare Zameen Par",
-        "year": "2007",
-        "genres": [
-            "Drama",
-            "Family",
-            "Music"
-        ],
-        "ratings": [
-            8,
-            1,
-            10,
-            4,
-            8,
-            6,
-            6,
-            10,
-            3,
-            7,
-            5,
-            7,
-            2,
-            10,
-            10,
-            2,
-            4,
-            10,
-            8,
-            2,
-            1,
-            1,
-            8,
-            10,
-            2,
-            6,
-            1,
-            5,
-            7,
-            2
-        ],
-        "poster": "MV5BNTVmYTk2NjAtYzY3MS00YjFjLTlkYzktYzg3YzMyZDQyOWRiXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SY500_CR0,0,346,500_AL_.jpg",
-        "contentRating": "PG",
-        "duration": "PT165M",
-        "releaseDate": "2008-12-26",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "Ishaan Awasthi is an eight-year-old whose world is filled with wonders that no one else seems to appreciate; colours, fish, dogs and kites are just not important in the world of adults, who are much more interested in things like homework, marks and neatness. And Ishaan just cannot seem to get anything right in class. When he gets into far more trouble than his parents can handle, he is packed off to a boarding school to 'be disciplined'. Things are no different at his new school, and Ishaan has to contend with the added trauma of separation from his family. One day a new art teacher bursts onto the scene, Ram Shankar Nikumbh, who infects the students with joy and optimism. He breaks all the rules of 'how things are done' by asking them to think, dream and imagine, and all the children respond with enthusiasm, all except Ishaan. Nikumbh soon realizes that Ishaan is very unhappy, and he sets out to discover why. With time, patience and care, he ultimately helps Ishaan find himself.                Written by\nAnonymous",
-        "actors": [
-            "Darsheel Safary",
-            "Aamir Khan",
-            "Tanay Chheda"
-        ],
-        "imdbRating": 8.5,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTVmYTk2NjAtYzY3MS00YjFjLTlkYzktYzg3YzMyZDQyOWRiXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SY500_CR0,0,346,500_AL_.jpg"
-    },
-    {
-        "title": "Lawrence of Arabia",
-        "year": "1962",
-        "genres": [
-            "Adventure",
-            "Biography",
-            "Drama"
-        ],
-        "ratings": [
-            3,
-            4,
-            2,
-            5,
-            5,
-            8,
-            6,
-            9,
-            6,
-            1,
-            5,
-            5,
-            1,
-            5,
-            8,
-            8,
-            1,
-            4,
-            7,
-            9,
-            5,
-            10,
-            6,
-            6,
-            10,
-            4,
-            3,
-            8,
-            5,
-            6
-        ],
-        "poster": "MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY500_CR0,0,346,500_AL_.jpg",
-        "contentRating": "15",
-        "duration": "PT216M",
-        "releaseDate": "1963-03-22",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "Due to his knowledge of the native Bedouin tribes, British Lieutenant T.E. Lawrence is sent to Arabia to find Prince Faisal and serve as a liaison between the Arabs and the British in their fight against the Turks. With the aid of native Sherif Ali, Lawrence rebels against the orders of his superior officer and strikes out on a daring camel journey across the harsh desert to attack a well-guarded Turkish port.                Written by\nJwelch5742",
-        "actors": [
-            "Peter O'Toole",
-            "Alec Guinness",
-            "Anthony Quinn"
-        ],
-        "imdbRating": 8.3,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY500_CR0,0,346,500_AL_.jpg"
-    },
-    {
         "title": "Eternal Sunshine of the Spotless Mind",
         "year": "2004",
-        "genres": [
-            "Drama",
-            "Romance",
-            "Sci-Fi"
-        ],
+        "genre":"Drama",
         "ratings": [
             2,
             2,
@@ -3548,122 +2863,9 @@
         "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SY500_CR0,0,337,500_AL_.jpg"
     },
     {
-        "title": "To Kill a Mockingbird",
-        "year": "1962",
-        "genres": [
-            "Crime",
-            "Drama"
-        ],
-        "ratings": [
-            7,
-            10,
-            10,
-            3,
-            9,
-            10,
-            5,
-            1,
-            3,
-            2,
-            10,
-            3,
-            2,
-            10,
-            1,
-            3,
-            8,
-            3,
-            5,
-            2,
-            7,
-            7,
-            10,
-            9,
-            9,
-            3,
-            6,
-            1,
-            3,
-            2
-        ],
-        "poster": "MV5BMjA4MzI1NDY2Nl5BMl5BanBnXkFtZTcwMTcyODc5Mw@@._V1_SY250_SX164_AL_.jpg",
-        "contentRating": "15",
-        "duration": "PT129M",
-        "releaseDate": "1964-03-02",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "Small-town Alabama, 1932. Atticus Finch (played by Gregory Peck) is a lawyer and a widower. He has two young children, Jem and Scout. Atticus Finch is currently defending Tom Robinson, a black man accused of raping a white woman. Meanwhile, Jem and Scout are intrigued by their neighbours, the Radleys, and the mysterious, seldom-seen Boo Radley in particular.                Written by\ngrantss",
-        "actors": [
-            "Gregory Peck",
-            "John Megna",
-            "Frank Overton"
-        ],
-        "imdbRating": 8.3,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4MzI1NDY2Nl5BMl5BanBnXkFtZTcwMTcyODc5Mw@@._V1_SY250_SX164_AL_.jpg"
-    },
-    {
-        "title": "Amadeus",
-        "year": "1984",
-        "genres": [
-            "Biography",
-            "Drama",
-            "History"
-        ],
-        "ratings": [
-            1,
-            2,
-            7,
-            7,
-            3,
-            6,
-            1,
-            1,
-            9,
-            10,
-            1,
-            4,
-            8,
-            8,
-            9,
-            8,
-            1,
-            6,
-            8,
-            5,
-            5,
-            5,
-            10,
-            5,
-            5,
-            8,
-            8,
-            3,
-            3,
-            4
-        ],
-        "poster": "MV5BMTg5NDkwMTk5N15BMl5BanBnXkFtZTYwODg3MDk2._V1_SY352_CR0,0,237,352_AL_.jpg",
-        "contentRating": "11",
-        "duration": "PT160M",
-        "releaseDate": "1984-10-12",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "Antonio Salieri believes that Wolfgang Amadeus Mozart's music is divine and miraculous. He wishes he was himself as good a musician as Mozart so that he can praise the Lord through composing. He began his career as a devout man who believes his success and talent as a composer are God's rewards for his piety. He's also content as the respected, financially well-off, court composer of Austrian Emperor Joseph II. But he's shocked to learn that Mozart is such a vulgar creature, and can't understand why God favored Mozart to be his instrument. Salieri's envy has made him an enemy of God whose greatness was evident in Mozart. He is ready to take revenge against God and Mozart for his own musical mediocrity.                Written by\nKhaled Salem",
-        "actors": [
-            "F. Murray Abraham",
-            "Tom Hulce",
-            "Elizabeth Berridge"
-        ],
-        "imdbRating": 8.3,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5NDkwMTk5N15BMl5BanBnXkFtZTYwODg3MDk2._V1_SY352_CR0,0,237,352_AL_.jpg"
-    },
-    {
         "title": "Toy Story 3",
         "year": "2010",
-        "genres": [
-            "Animation",
-            "Adventure",
-            "Comedy"
-        ],
+        "genre":"Adventure",    
         "ratings": [
             10,
             5,
@@ -3714,10 +2916,7 @@
     {
         "title": "Full Metal Jacket",
         "year": "1987",
-        "genres": [
-            "Drama",
-            "War"
-        ],
+        "genre":"Drama",  
         "ratings": [
             9,
             9,
@@ -3766,68 +2965,9 @@
         "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzc2ZThkOGItZGY5YS00MDYwLTkyOTAtNDRmZWIwMGRhYTc0L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,328,500_AL_.jpg"
     },
     {
-        "title": "Dangal",
-        "year": "2016",
-        "genres": [
-            "Action",
-            "Biography",
-            "Drama"
-        ],
-        "ratings": [
-            3,
-            9,
-            6,
-            8,
-            2,
-            4,
-            5,
-            1,
-            9,
-            6,
-            1,
-            3,
-            2,
-            1,
-            10,
-            4,
-            4,
-            2,
-            5,
-            9,
-            6,
-            5,
-            10,
-            8,
-            8,
-            1,
-            7,
-            10,
-            9,
-            1
-        ],
-        "poster": "MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_SY500_CR0,0,356,500_AL_.jpg",
-        "contentRating": "",
-        "duration": "PT161M",
-        "releaseDate": "2016-12-23",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "Biopic of Mahavir Singh Phogat, who taught wrestling to his daughters Babita Kumari and Geeta Phogat. Geeta Phogat was India's first female wrestler to win at the 2010 Commonwealth Games, where she won the gold medal (55 kg) while her sister Babita Kumari won the silver (52 kg).                Written by\nDibyayan_Chakravorty",
-        "actors": [
-            "Aamir Khan",
-            "Sakshi Tanwar",
-            "Fatima Sana Shaikh"
-        ],
-        "imdbRating": 8.9,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_SY500_CR0,0,356,500_AL_.jpg"
-    },
-    {
         "title": "The Sting",
         "year": "1973",
-        "genres": [
-            "Comedy",
-            "Crime",
-            "Drama"
-        ],
+        "genre":"Comedy",   
         "ratings": [
             2,
             1,
@@ -3875,121 +3015,10 @@
         "imdbRating": 8.3,
         "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MjM1OTAyOV5BMl5BanBnXkFtZTgwMDkwODg4MDE@._V1._CR52,57,915,1388_SY500_CR0,0,329,500_AL_.jpg"
     },
-    {
-        "title": "\"2001\": A Space Odyssey",
-        "year": "1968",
-        "genres": [
-            "Adventure",
-            "Sci-Fi"
-        ],
-        "ratings": [
-            8,
-            5,
-            10,
-            2,
-            8,
-            1,
-            1,
-            1,
-            2,
-            3,
-            5,
-            2,
-            5,
-            2,
-            5,
-            7,
-            7,
-            1,
-            6,
-            4,
-            9,
-            4,
-            9,
-            1,
-            3,
-            4,
-            4,
-            5,
-            9,
-            9
-        ],
-        "poster": "MV5BMTZkZTBhYmUtMTIzNy00YTViLTg1OWItNGUwMmVlN2FjZTVkXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY500_CR0,0,337,500_AL_.jpg",
-        "contentRating": "11",
-        "duration": "PT149M",
-        "releaseDate": "1968-08-27",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "\"2001\" is a story of evolution. Sometime in the distant past, someone or something nudged evolution by placing a monolith on Earth (presumably elsewhere throughout the universe as well). Evolution then enabled humankind to reach the moon's surface, where yet another monolith is found, one that signals the monolith placers that humankind has evolved that far. Now a race begins between computers (HAL) and human (Bowman) to reach the monolith placers. The winner will achieve the next step in evolution, whatever that may be.                Written by\nLarry Cousins",
-        "actors": [
-            "Keir Dullea",
-            "Gary Lockwood",
-            "William Sylvester"
-        ],
-        "imdbRating": 8.3,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTZkZTBhYmUtMTIzNy00YTViLTg1OWItNGUwMmVlN2FjZTVkXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY500_CR0,0,337,500_AL_.jpg"
-    },
-    {
-        "title": "Babam ve Oglum",
-        "year": "2005",
-        "genres": [
-            "Drama"
-        ],
-        "ratings": [
-            8,
-            3,
-            4,
-            8,
-            4,
-            3,
-            2,
-            7,
-            1,
-            4,
-            1,
-            10,
-            2,
-            3,
-            8,
-            2,
-            2,
-            1,
-            8,
-            10,
-            3,
-            5,
-            9,
-            2,
-            5,
-            1,
-            1,
-            7,
-            7,
-            7
-        ],
-        "poster": "MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_SX347_AL_.jpg",
-        "contentRating": "",
-        "duration": "PT108M",
-        "releaseDate": "2005-11-18",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "Sadik is one of the rebellious youth who has been politically active as a university student and became a left-wing journalist in the 70's, despite his father's expectations of him becoming an agricultural engineer and taking control of their family farm in an Aegean village. On the dawn of September 12, 1980, when a merciless military coup hits the country, they cannot find access to any hospital or a doctor and his wife dies while giving birth to their only child, Deniz. After a long-lasting period of torture, trials, and jail time, Sadik returns to his village with 7-8 years old Deniz, knowing that it will be hard to correct things with his father, Huseyin.                Written by\nAli Riza Bolukbasi",
-        "actors": [
-            "Fikret Kuskan",
-            "\u00c7etin Tekindor",
-            "H\u00fcmeyra"
-        ],
-        "imdbRating": 8.6,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_SX347_AL_.jpg"
-    },
      {
         "title": "Toy Story",
         "year": "1995",
-        "genres": [
-            "Animation",
-            "Adventure",
-            "Comedy"
-        ],
+        "genre":"Adventure",    
         "ratings": [
             10,
             8,
@@ -4038,68 +3067,9 @@
         "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SY500_SX335_AL_.jpg"
     },
     {
-        "title": "The Kid",
-        "year": "1921",
-        "genres": [
-            "Comedy",
-            "Drama",
-            "Family"
-        ],
-        "ratings": [
-            8,
-            4,
-            5,
-            2,
-            3,
-            8,
-            8,
-            3,
-            6,
-            9,
-            7,
-            4,
-            4,
-            1,
-            9,
-            7,
-            3,
-            10,
-            7,
-            10,
-            3,
-            2,
-            6,
-            3,
-            1,
-            8,
-            8,
-            6,
-            5,
-            2
-        ],
-        "poster": "MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY500_CR0,0,332,500_AL_.jpg",
-        "contentRating": "",
-        "duration": "PT68M",
-        "releaseDate": "1922-03-20",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "The opening title reads: \"A comedy with a smile--and perhaps a tear\". As she leaves the charity hospital and passes a church wedding, Edna deposits her new baby with a pleading note in a limousine and goes off to commit suicide. The limo is stolen by thieves who dump the baby by a garbage can. Charlie the Tramp finds the baby and makes a home for him. Five years later Edna has become an opera star but does charity work for slum youngsters in hope of finding her boy. A doctor called by Edna discovers the note with the truth about the Kid and reports it to the authorities who come to take him away from Charlie. Before he arrives at the Orphan Asylum Charlie steals him back and takes him to a flophouse. The proprietor reads of a reward for the Kid and takes him to Edna. Charlie is later awakened by a kind policeman who reunites him with the Kid at Edna's mansion.                Written by\nEd Stephan <stephan@cc.wwu.edu>",
-        "actors": [
-            "Charles Chaplin",
-            "Edna Purviance",
-            "Jackie Coogan"
-        ],
-        "imdbRating": 8.3,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY500_CR0,0,332,500_AL_.jpg"
-    },
-    {
         "title": "Inglourious Basterds",
         "year": "2009",
-        "genres": [
-            "Adventure",
-            "Drama",
-            "War"
-        ],
+        "genre":"Drama",   
         "ratings": [
             10,
             6,
@@ -4150,10 +3120,7 @@
     {
         "title": "Snatch",
         "year": "2000",
-        "genres": [
-            "Comedy",
-            "Crime"
-        ],
+        "genre":"Comedy",   
         "ratings": [
             3,
             2,
@@ -4204,11 +3171,7 @@
     {
         "title": "Monty Python and the Holy Grail",
         "year": "1975",
-        "genres": [
-            "Adventure",
-            "Comedy",
-            "Fantasy"
-        ],
+        "genre":"Adventure",
         "ratings": [
             2,
             9,
@@ -4257,67 +3220,9 @@
         "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNmNmZjViNTQtNDQ5Mi00MDYzLWI5YWMtNDUyZGNmMGZhNDg4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY384_SX260_AL_.jpg"
     },
     {
-        "title": "3 Idiots",
-        "year": "2009",
-        "genres": [
-            "Comedy",
-            "Drama"
-        ],
-        "ratings": [
-            2,
-            7,
-            9,
-            10,
-            1,
-            10,
-            5,
-            7,
-            10,
-            5,
-            7,
-            9,
-            4,
-            9,
-            10,
-            3,
-            4,
-            7,
-            9,
-            1,
-            10,
-            3,
-            1,
-            2,
-            3,
-            7,
-            5,
-            5,
-            8,
-            8
-        ],
-        "poster": "MV5BZWRlNDdkNzItMzhlZC00YTdmLWIwNjktYjY5NjQ1ZmQ3N2FkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,373,500_AL_.jpg",
-        "contentRating": "11",
-        "duration": "PT170M",
-        "releaseDate": "2009-12-25",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "Farhan Qureshi and Raju Rastogi want to re-unite with their fellow collegian, Rancho, after faking a stroke aboard an Air India plane, and excusing himself from his wife - trouser less - respectively. Enroute, they encounter another student, Chatur Ramalingam, now a successful businessman, who reminds them of a bet they had undertaken 10 years ago. The trio, while recollecting hilarious antics, including their run-ins with the Dean of Delhi's Imperial College of Engineering, Viru Sahastrabudhe, race to locate Rancho, at his last known address - little knowing the secret that was kept from them all this time.                Written by\nrAjOo (gunwanti@hotmail.com)",
-        "actors": [
-            "Aamir Khan",
-            "Madhavan",
-            "Mona Singh"
-        ],
-        "imdbRating": 8.4,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BZWRlNDdkNzItMzhlZC00YTdmLWIwNjktYjY5NjQ1ZmQ3N2FkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,373,500_AL_.jpg"
-    },
-    {
         "title": "L.A. Confidential",
         "year": "1997",
-        "genres": [
-            "Crime",
-            "Drama",
-            "Mystery"
-        ],
+        "genre":"Crime",  
         "ratings": [
             7,
             8,
@@ -4368,10 +3273,7 @@
     {
         "title": "Scarface",
         "year": "1983",
-        "genres": [
-            "Crime",
-            "Drama"
-        ],
+        "genre":"Crime",   
         "ratings": [
             7,
             5,
@@ -4422,9 +3324,7 @@
     {
         "title": "Jagten",
         "year": "2012",
-        "genres": [
-            "Drama"
-        ],
+        "genre":"Drama",
         "ratings": [
             6,
             2,
@@ -4475,11 +3375,7 @@
     {
         "title": "The Apartment",
         "year": "1960",
-        "genres": [
-            "Comedy",
-            "Drama",
-            "Romance"
-        ],
+        "genre":"Comedy",    
         "ratings": [
             9,
             4,
@@ -4530,9 +3426,7 @@
     {
         "title": "Good Will Hunting",
         "year": "1997",
-        "genres": [
-            "Drama"
-        ],
+        "genre":"Drama",
         "ratings": [
             3,
             5,
@@ -4583,11 +3477,7 @@
     {
         "title": "Indiana Jones and the Last Crusade",
         "year": "1989",
-        "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ],
+        "genre":"Action",
         "ratings": [
             1,
             1,
@@ -4636,119 +3526,9 @@
         "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY500_CR0,0,339,500_AL_.jpg"
     },
     {
-        "title": "Metropolis",
-        "year": "1927",
-        "genres": [
-            "Drama",
-            "Sci-Fi"
-        ],
-        "ratings": [
-            10,
-            10,
-            2,
-            10,
-            5,
-            8,
-            8,
-            7,
-            9,
-            9,
-            6,
-            9,
-            7,
-            3,
-            5,
-            4,
-            8,
-            4,
-            1,
-            3,
-            6,
-            4,
-            8,
-            9,
-            6,
-            6,
-            6,
-            1,
-            2,
-            6
-        ],
-        "poster": "MV5BNDAzNTkyODg1MF5BMl5BanBnXkFtZTgwMDA3NDkwMDE@._V1_SY250_CR0,0,161,250_AL_.jpg",
-        "contentRating": "15",
-        "duration": "PT153M",
-        "releaseDate": "1927-04-04",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "Sometime in the future, the city of Metropolis is home to a Utopian society where its wealthy residents live a carefree life. One of those is Freder Fredersen. One day, he spots a beautiful woman with a group of children, she and the children who quickly disappear. Trying to follow her, he, oblivious to such, is horrified to find an underground world of workers, apparently who run the machinery which keeps the above ground Utopian world functioning. One of the few people above ground who knows about the world below is Freder's father, Joh Fredersen, who is the founder and master of Metropolis. Freder learns that the woman is Maria, who espouses the need to join the \"hands\" - the workers - to the \"head\" - those in power above - by a mediator or the \"heart\". Freder wants to help the plight of the workers in the want for a better life. But when Joh learns of what Maria is espousing and that Freder is joining their cause, Joh, with the assistance of an old colleague and now nemesis named ...                Written by\nHuggo",
-        "actors": [
-            "Brigitte Helm",
-            "Alfred Abel",
-            "Gustav Fr\u00f6hlich"
-        ],
-        "imdbRating": 8.3,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDAzNTkyODg1MF5BMl5BanBnXkFtZTgwMDA3NDkwMDE@._V1_SY250_CR0,0,161,250_AL_.jpg"
-    },
-    {
-        "title": "All About Eve",
-        "year": "1950",
-        "genres": [
-            "Drama"
-        ],
-        "ratings": [
-            9,
-            7,
-            2,
-            5,
-            8,
-            2,
-            8,
-            4,
-            2,
-            5,
-            4,
-            10,
-            6,
-            7,
-            2,
-            4,
-            3,
-            2,
-            5,
-            2,
-            4,
-            2,
-            8,
-            9,
-            10,
-            2,
-            4,
-            3,
-            5,
-            3
-        ],
-        "poster": "MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SY500_CR0,0,333,500_AL_.jpg",
-        "contentRating": "",
-        "duration": "PT138M",
-        "releaseDate": "1951-01-15",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "Eve (Anne Baxter) is waiting backstage to meet her \"idol\" aging Broadway Star, Margo Channing (Bette Davis). It all seems innocent enough as Eve explains that she has seen Margo in EVERY performance of the current play she is in. Only Playright critic DeWitt (George Sanders) sees through Eve's evil plan, which is to take her parts and fianc\u00e9, Bill Simpson (Gary Merrill) When the fianc\u00e9 shows no interest, she tries for playwright Hugh Marlowe (Lloyd Richards) but DeWitt stops her. After she accepts her award, she decides to skip the after-party and goes to her room, where we find a young woman named Phoebe, who snuck into her room and fell asleep. This is where the \"Circle of Life\" now comes to fruition as Eve is going to get played the way she did Margo.",
-        "actors": [
-            "Bette Davis",
-            "Anne Baxter",
-            "George Sanders"
-        ],
-        "imdbRating": 8.3,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SY500_CR0,0,333,500_AL_.jpg"
-    },
-    {
         "title": "Batman Begins",
         "year": "2005",
-        "genres": [
-            "Action",
-            "Adventure"
-        ],
+        "genre":"Action",    
         "ratings": [
             2,
             5,
@@ -4799,11 +3579,7 @@
     {
         "title": "Up",
         "year": "2009",
-        "genres": [
-            "Animation",
-            "Adventure",
-            "Comedy"
-        ],
+        "genre":"Adventure",  
         "ratings": [
             4,
             1,
@@ -4852,121 +3628,9 @@
         "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_SY500_CR0,0,332,500_AL_.jpg"
     },
     {
-        "title": "Some Like It Hot",
-        "year": "1959",
-        "genres": [
-            "Comedy",
-            "Romance"
-        ],
-        "ratings": [
-            5,
-            5,
-            7,
-            5,
-            2,
-            7,
-            2,
-            8,
-            4,
-            6,
-            2,
-            1,
-            4,
-            5,
-            2,
-            8,
-            2,
-            1,
-            1,
-            8,
-            5,
-            8,
-            9,
-            8,
-            4,
-            4,
-            10,
-            7,
-            6,
-            2
-        ],
-        "poster": "MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,322,500_AL_.jpg",
-        "contentRating": "15",
-        "duration": "PT120M",
-        "releaseDate": "1959-09-28",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "When two Chicago musicians, Joe and Jerry, witness the the St. Valentine's Day massacre, they want to get out of town and get away from the gangster responsible, Spats Colombo. They're desperate to get a gig out of town but the only job they know of is in an all-girl band heading to Florida. They show up at the train station as Josephine and Daphne, the replacement saxophone and bass players. They certainly enjoy being around the girls, especially Sugar Kane Kowalczyk who sings and plays the ukulele. Joe in particular sets out to woo her while Jerry/Daphne is wooed by a millionaire, Osgood Fielding III. Mayhem ensues as the two men try to keep their true identities hidden and Spats Colombo and his crew show up for a meeting with several other crime lords.                Written by\ngarykmcd",
-        "actors": [
-            "Marilyn Monroe",
-            "Tony Curtis",
-            "Jack Lemmon"
-        ],
-        "imdbRating": 8.3,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SY500_CR0,0,322,500_AL_.jpg"
-    },
-    {
-        "title": "The Treasure of the Sierra Madre",
-        "year": "1948",
-        "genres": [
-            "Adventure",
-            "Drama",
-            "Western"
-        ],
-        "ratings": [
-            8,
-            9,
-            7,
-            6,
-            9,
-            3,
-            8,
-            6,
-            9,
-            5,
-            5,
-            6,
-            7,
-            10,
-            5,
-            1,
-            3,
-            1,
-            3,
-            9,
-            10,
-            8,
-            3,
-            7,
-            9,
-            7,
-            3,
-            7,
-            5,
-            9
-        ],
-        "poster": "MV5BMTQ4MzUzOTYwOV5BMl5BanBnXkFtZTgwNDA4MzgyMjE@._V1_SY250_SX169_AL_.jpg",
-        "contentRating": "",
-        "duration": "PT126M",
-        "releaseDate": "1948-04-29",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "Fred C. Dobbs and Bob Curtin, both down on their luck in Tampico, Mexico in 1925, meet up with a grizzled prospector named Howard and decide to join with him in search of gold in the wilds of central Mexico. Through enormous difficulties, they eventually succeed in finding gold, but bandits, the elements, and most especially greed threaten to turn their success into disaster.                Written by\nJim Beaver <jumblejim@prodigy.net>",
-        "actors": [
-            "Humphrey Bogart",
-            "Walter Huston",
-            "Tim Holt"
-        ],
-        "imdbRating": 8.3,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MzUzOTYwOV5BMl5BanBnXkFtZTgwNDA4MzgyMjE@._V1_SY250_SX169_AL_.jpg"
-    },
-    {
         "title": "Unforgiven",
         "year": "1992",
-        "genres": [
-            "Drama",
-            "Western"
-        ],
+        "genre":"Drama",   
         "ratings": [
             6,
             7,
@@ -5017,11 +3681,7 @@
     {
         "title": "Raging Bull",
         "year": "1980",
-        "genres": [
-            "Biography",
-            "Drama",
-            "Sport"
-        ],
+        "genre":"Drama", 
         "ratings": [
             3,
             10,
@@ -5070,67 +3730,9 @@
         "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxOTg3OTc5MF5BMl5BanBnXkFtZTcwNzkwNjMwNA@@._V1_SY500_CR0,0,333,500_AL_.jpg"
     },
     {
-        "title": "The Third Man",
-        "year": "1949",
-        "genres": [
-            "Film-Noir",
-            "Mystery",
-            "Thriller"
-        ],
-        "ratings": [
-            7,
-            7,
-            1,
-            7,
-            6,
-            9,
-            10,
-            8,
-            9,
-            8,
-            10,
-            1,
-            8,
-            5,
-            7,
-            8,
-            2,
-            2,
-            5,
-            10,
-            1,
-            4,
-            8,
-            7,
-            2,
-            5,
-            2,
-            9,
-            6,
-            2
-        ],
-        "poster": "MV5BZjQxYmRkMjgtMmZkZi00ZDYyLTk5OTktZWZjZTEzNGZlMWEwXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY500_CR0,0,335,500_AL_.jpg",
-        "contentRating": "15",
-        "duration": "PT104M",
-        "releaseDate": "1949-10-26",
-        "averageRating": 0,
-        "originalTitle": "",
-        "storyline": "An out of work pulp fiction novelist, Holly Martins, arrives in a post war Vienna divided into sectors by the victorious allies, and where a shortage of supplies has lead to a flourishing black market. He arrives at the invitation of an ex-school friend, Harry Lime, who has offered him a job, only to discover that Lime has recently died in a peculiar traffic accident. From talking to Lime's friends and associates Martins soon notices that some of the stories are inconsistent, and determines to discover what really happened to Harry Lime.                Written by\nMark Thompson <mrt@oasis.icl.co.uk>",
-        "actors": [
-            "Orson Welles",
-            "Joseph Cotten",
-            "Alida Valli"
-        ],
-        "imdbRating": 8.3,
-        "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjQxYmRkMjgtMmZkZi00ZDYyLTk5OTktZWZjZTEzNGZlMWEwXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SY500_CR0,0,335,500_AL_.jpg"
-    },
-    {
         "title": "Die Hard",
         "year": "1988",
-        "genres": [
-            "Action",
-            "Thriller"
-        ],
+        "genre":"Action",
         "ratings": [
             7,
             3,
