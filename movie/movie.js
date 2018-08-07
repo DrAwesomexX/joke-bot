@@ -42,27 +42,36 @@ loadMovie = (app)=>{
             res.json({
                 replies:[
                     {
-                        type:'text',
-                        content:movieInfos.year
-                    },
-                    {
-                        type:'text',
-                        content:movieInfos.storyline
-                    },
-                    {
-                        type:'picture',
-                        content:movieInfos.posterurl
-                    },
-                    {
-                        type:'text',
-                        content:`${findingRating(movieInfos.imdbRating).toString()}`
-                    
-                    },
+                        type: 'card',
+                        content: {
+                          title: movieInfos.title,
+                          subtitle: `hola`,
+                          imageUrl: movieInfos.posterurl,
+                          buttons: [
+                            {
+                              title: `${movieInfos.title}` ,
+                              type: 'postback',
+                              value: movieInfos.storyline,
+                            
+                            },
+                            
+                            
+                          ],
+                          
+                        }
+                      }
                     
                 ]
+                
             })
+            console.log(movieInfos.posterurl);
+           
         }
+       
     }
+    
+
+    
 
     findingRating = (rate)=>{
           

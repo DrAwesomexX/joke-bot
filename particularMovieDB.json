@@ -1,0 +1,578 @@
+[
+    {
+
+        "franchise":"Bourne",
+       
+       
+       "pictureUrl": [
+        "https://img00.deviantart.net/9dd6/i/2016/280/e/7/jason_bourne___wallpaper_by_xerlientt-dak848q.png",
+        "https://www.hdwallpapers.in/download/the_bourne_legacy-wide.jpg",
+        "https://stmed.net/sites/default/files/the-bourne-identity-wallpapers-29981-6241244.jpg",
+        "https://s.s-bol.com/imgbase0/imagebase3/large/FC/3/6/2/8/1002004000098263.jpg",
+         "https://images4.alphacoders.com/849/8494.jpg",
+         null
+
+    ]
+},
+
+{
+    "franchise":"Avengers",
+       
+       
+       "pictureUrl": [
+        "https://shyfyy.files.wordpress.com/2012/03/the-avengers.jpg",
+        "http://horrornews.net/wp-content/uploads/2015/05/Avengers-Age-of-Ultron.jpg",
+        "https://i.annihil.us/u/prod/marvel/movies/infinitywar/images/share.jpg",
+        null
+        
+
+    ],
+
+    "names":[
+
+        "Avengers",
+        "Avengers Age of Ultron ",
+        "Avengers Infinity War"
+        
+    ],
+    "imdbRating":[
+        8.1,
+        7.4,
+        8.8
+       
+  
+    ],
+  
+    "RottenTomatoes":[
+      
+       "92%",
+       "75%",
+       "83%"
+       
+  ],
+  
+  "year":[
+   
+      2012,
+      2015,
+      2018
+     
+  ]
+  
+
+},
+
+{
+    "franchise":"Captain America",
+       
+       
+       "pictureUrl": [
+        "http://www.dream-wallpaper.com/free-wallpaper/movie-wallpaper/captain-america-the-first-avenger-wallpaper/1920x1200/free-wallpaper-11.jpg",
+        "https://wallpaper-house.com/data/out/12/wallpaper2you_509345.jpg",
+        "https://images.alphacoders.com/675/thumb-1920-675871.jpg",
+        null
+
+
+       ],
+    "names":[
+
+        "Captain America The First Avenger",
+        "Captain America The Winter Soldier",
+        "Captain America Civil War"
+        
+    ],
+    "imdbRating":[
+        6.9,
+        7.8,
+        7.8
+       
+  
+    ],
+  
+    "RottenTomatoes":[
+      
+       "79%",
+       "89%",
+       "98%"
+       
+  ],
+  
+  "year":[
+   
+      2011,
+      2014,
+      2016
+     
+  ]
+  
+
+
+},
+
+{
+    "franchise":"Thor",
+       
+       
+       "pictureUrl": [
+        "https://images4.alphacoders.com/270/270916.jpg",
+        "https://georgespigot.files.wordpress.com/2013/10/thor-2-03.jpg",
+        "https://pre00.deviantart.net/3306/th/pre/f/2017/298/5/f/thor__ragnarok_wallpaper_by_the_dark_mamba_995-dbrpeuh.jpg",
+        null
+
+
+    ],
+    "names":[
+
+        "Thor",
+        "Thor 2 The Dark World",
+        "Thor Ragnarok"
+        
+    ],
+    "imdbRating":[
+        7,
+        7,
+        7.9
+       
+  
+    ],
+  
+    "RottenTomatoes":[
+      
+       "77%",
+       "66%",
+       "92%"
+       
+  ],
+  
+  "year":[
+   
+      2011,
+      2013,
+      2017
+     
+  ]
+
+    
+
+},
+
+{
+    "franchise":"Iron Man",
+       
+       
+       "pictureUrl": [
+        "https://wallpaper-house.com/data/out/7/wallpaper2you_139745.jpg",
+        "https://wallpaper-house.com/data/out/7/wallpaper2you_139788.jpg",
+        "https://images8.alphacoders.com/378/thumb-1920-378546.jpg",
+        null
+
+
+    ],
+
+    "names":[
+
+        "Iron Man",
+        "Iron Man 2",
+        "Iron Man 3"
+        
+    ],
+    "imdbRating":[
+        7.9,
+        7,
+        7.2
+       
+  
+    ],
+  
+    "RottenTomatoes":[
+      
+       "94%",
+       "73%",
+       "62%"
+       
+  ],
+  
+  "year":[
+   
+      2008,
+      2010,
+      2013
+     
+  ]
+
+},
+
+{
+    "franchise":"Matrix",
+       
+       
+       "pictureUrl": [
+        "https://stmed.net/sites/default/files/the-matrix-wallpapers-30078-238300.jpg",
+        "https://wallpaper-house.com/data/out/12/wallpaper2you_564725.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxhsAJutaolthk0bv4EZB5qNzRaCHJXGPVtbbE-URFY03WDc0j",
+        null
+
+    ],
+
+    "names":[
+
+        "The Matrix",
+        "The Matrix 2",
+        "The Matrix 3"
+        
+    ],
+    "imdbRating":[
+        8.7,
+        7.2,
+        6.7
+       
+  
+    ],
+  
+    "RottenTomatoes":[
+      
+       "87%",
+       "73%",
+       "36%"
+       
+  ],
+  
+  "year":[
+   
+      1999,
+      2003,
+      2003
+     
+  ]
+
+},
+
+{
+    "franchise":"Harry Potter",
+       
+       
+       "pictureUrl": [
+        "http://paperlief.com/images/harry-potter-and-the-sorcerers-stone-logo-wallpaper-2.jpg",
+        "http://hdw7.com/wallpapers/318/harry-potter-and-the-chamber-of-secrets-movie.jpg",
+        "http://www.1zoom.me/big/69/27886-aleni.jpg",
+        "https://vignette.wikia.nocookie.net/harrypotter/images/8/81/1828-harry-potter-and-the-goblet-of-fire-wallpaper.jpg/revision/latest?cb=20120514010254",
+        "http://notgoaway.com/wp-content/uploads/2017/07/Harry-Potter-Wallpaper-50.jpg",
+        "http://imgs.mi9.com/uploads/movie-tv/2788/cool-logo-of-harry-potter-and-the-half-blood-prince_1920x1200_39560.jpg",
+        "http://lbc9.net/movies-and-tv/movie/harry-potter-and-the-deathly-hallows-part-1/harry-potter-and-the-deatlhy-hallows-logo-wallpaper.jpg",
+        "http://iwallpapers.free.fr/upload/2012/09/15/20120915115752-ac08a0de.jpg",
+        null
+
+
+    ]
+
+},
+
+{
+    "franchise":"godfather",
+       
+       
+       "pictureUrl": [
+        "https://digitalsevilla.com/wp-content/uploads/2017/05/El-Padrino.jpg",
+        "https://i.pinimg.com/originals/4f/1e/d1/4f1ed17ebcf3d228694c5c841b3004e8.jpg",
+        "https://images5.alphacoders.com/340/thumb-1920-340957.jpg",
+        null
+
+
+    ],
+
+    "names":[
+
+        "The Godfather",
+        "The Godfather 2",
+        "The Godfather 3"
+        
+    ],
+    "imdbRating":[
+        9.2,
+        9.0,
+        7.6
+       
+  
+    ],
+  
+    "RottenTomatoes":[
+      
+       "98%",
+       "97%",
+       "67%"
+       
+  ],
+  
+  "year":[
+   
+      1972,
+      1974,
+      1990
+     
+  ]
+
+},
+{
+    "franchise":"rocky",
+       
+       
+       "pictureUrl": [
+        "https://images3.alphacoders.com/154/thumb-1920-154265.jpg",
+        "https://i.ytimg.com/vi/O8afHrahuTA/maxresdefault.jpg",
+        "https://steemitimages.com/DQmawjjgDeCUpFZqykKCr7VxNBSwJ9QZ4RWUZzQziQYZHb2/SergioDouglas94%20.DeviantArt.com.jpg",
+        "http://www.soundtrackdreams.com/wp-content/uploads/2014/08/rocky4.jpg",
+        "https://i.pinimg.com/originals/d4/e9/f4/d4e9f4a8d8259e09b4a2ff7fca01f8b5.jpg",
+        null
+
+
+    ]
+
+},
+
+{
+    "franchise":"jurassic park",
+       
+       
+       "pictureUrl": [
+        "https://images4.alphacoders.com/273/thumb-1920-273794.jpg",
+        "https://i.ytimg.com/vi/zHB8q6Z81ZQ/maxresdefault.jpg",
+        "https://wallpaper-house.com/data/out/10/wallpaper2you_461193.jpg",
+        null
+
+
+    ]
+
+},
+
+{
+    "franchise":"jurassic",
+       
+       
+       "pictureUrl": [
+        "https://images4.alphacoders.com/273/thumb-1920-273794.jpg",
+        "https://i.ytimg.com/vi/zHB8q6Z81ZQ/maxresdefault.jpg",
+        "https://wallpaper-house.com/data/out/10/wallpaper2you_461193.jpg",
+        "https://www.hdwallpapers.in/download/jurassic_world_2015_movie-wide.jpg",
+        null
+
+
+    ]
+
+},
+
+{
+    "franchise":"blade runner",
+       
+       
+       "pictureUrl": [
+        "https://georgespigot.files.wordpress.com/2012/11/blade-runner-01.jpg",
+        "http://static.tumblr.com/53eafdf54bcf7ed0d3240ba48a9d7e37/yxql1hy/ERxp2mutq/tumblr_static_1tbqmq75pmo00000ks0og8s80.jpg",
+        null
+
+
+    ]
+
+},
+{
+    
+    "franchise":"maze runner",
+       
+       
+       "pictureUrl": [
+        "https://vignette.wikia.nocookie.net/thehungergames/images/1/1d/The-Maze-Runner-Wallpaper.jpg/revision/latest?cb=20150903084425",
+        "https://s3.amazonaws.com/ffe-ugc/intlportal2/dev-temp/en-US/__59533b10d6fe3.jpg",
+        "https://s3.amazonaws.com/ffe-ugc/intlportal2/dev-temp/en-US/__5a9dd1a7e3333.jpg",
+        null
+
+
+    ]
+
+},
+
+{
+    
+    "franchise":"dark knight",
+       
+       
+       "pictureUrl": [
+        "https://www.hdwallpapers.in/download/joker_the_dark_knight-normal.jpg",
+        "https://stmed.net/sites/default/files/the-dark-knight-rises-wallpapers-29997-8854176.jpg",
+        null
+
+
+    ]
+
+},
+
+{
+    
+    "franchise":"batman",
+       
+       
+       "pictureUrl": [
+        "https://pm1.narvii.com/6712/37ad73e495ebc307fe145521903363aa02b90664_hq.jpg",
+        "http://images4.fanpop.com/image/photos/14700000/Batman-Returns-batman-returns-14752906-1600-1200.jpg",
+        "https://i.pinimg.com/originals/a6/4c/33/a64c33f22bf9d4d8744ca4279d5b2968.jpg",
+        "http://3.bp.blogspot.com/_uRSl_U5eaxE/TFxHEL_QrcI/AAAAAAAAAFE/n9KcJlK2c_g/s1600/Batman-and-Robin.jpg",
+        "https://stmed.net/sites/default/files/batman-begins-wallpapers-29408-2307481.png",  
+        "https://www.hdwallpapers.in/download/joker_the_dark_knight-normal.jpg",
+        "https://stmed.net/sites/default/files/the-dark-knight-rises-wallpapers-29997-8854176.jpg",
+        "https://www.hdwallpapers.in/download/2016_batman_v_superman_dawn_of_justice-wide.jpg",
+        "https://pre00.deviantart.net/e548/th/pre/f/2017/113/4/0/jlmovie_wall2_byaldebaran2_by_saintaldebaran-db6vk10.jpg",
+         null
+
+
+    ]
+
+},
+
+{
+    
+    "franchise":"marvel",
+       
+       
+       "pictureUrl": [
+        "https://i.pinimg.com/originals/c2/3f/09/c23f09a720341b31639b072e1d11a4aa.jpg",
+        "http://images2.fanpop.com/images/photos/7900000/Emil-Blonsky-The-Abomination-the-incredible-hulk-movie-7999602-1600-1200.jpg",
+        "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "https://i.pinimg.com/originals/e8/31/fd/e831fd4042b3be42dd7255d9f7fdc234.jpg",
+        "https://uk.movieposter.com/posters/archive/main/70/MPW-35479",
+        "http://xdesktopwallpapers.com/wp-content/uploads/2012/07/The%20Amazing%20Spider-Man%20-%20Movie%20Cover%20Poster.jpg",
+        "https://i.pinimg.com/originals/56/c0/ba/56c0bac840685165bfbc3b6016e1d6a9.jpg",  
+        "https://images-na.ssl-images-amazon.com/images/I/31UiPirP4GL.jpg",
+        "http://www.joblo.com/posters/images/full/ironman3-imax-poster.jpg",
+        "https://images8.alphacoders.com/378/thumb-1920-378546.jpg",
+        "https://images4.alphacoders.com/270/270916.jpg",
+        "https://georgespigot.files.wordpress.com/2013/10/thor-2-03.jpg",
+        "https://pre00.deviantart.net/3306/th/pre/f/2017/298/5/f/thor__ragnarok_wallpaper_by_the_dark_mamba_995-dbrpeuh.jpg",
+        "http://www.dream-wallpaper.com/free-wallpaper/movie-wallpaper/captain-america-the-first-avenger-wallpaper/1920x1200/free-wallpaper-11.jpg",
+        "https://wallpaper-house.com/data/out/12/wallpaper2you_509345.jpg",
+        "https://images.alphacoders.com/675/thumb-1920-675871.jpg",
+        "https://shyfyy.files.wordpress.com/2012/03/the-avengers.jpg",
+        "http://horrornews.net/wp-content/uploads/2015/05/Avengers-Age-of-Ultron.jpg",
+        "https://i.annihil.us/u/prod/marvel/movies/infinitywar/images/share.jpg",
+        "https://cdn8.bigcommerce.com/s-pfbbr25tq3/images/stencil/2000x2000/products/2759/3552/spider-manhomecoming__99169.1503013370.jpg?c=2",
+        "http://reallylatereviews.com/wp-content/uploads/2016/01/Doctor-Strange-2016-Movie-Logo-Wallpaper.jpg",
+        "https://wallpapercave.com/wp/wp1814955.jpg",
+        "https://ae01.alicdn.com/kf/HTB11Du7lsrI8KJjy0Fhq6zfnpXaP/Guardians-of-the-Galaxy-Vol-2-2017-Movie-poster-silk-fabric-print-12x18-20x30-24x36-27x40.jpg_640x640.jpg",
+        null
+
+
+    ],
+
+    "names":[
+        "Hulk",
+        "The Incredible Hulk",
+        "Spider-Man",
+        "Spider-Man 2",
+        "Spider-Man 3",
+        "The Amazing Spider-Man",
+        "The Amazing Spider-Man 2",
+        "Iron Man",
+        "Iron Man 2",
+        "Iron Man 3",
+        "Thor",
+        "Thor 2: The Dark World",
+        "Thor: Ragnarok",
+        "Captain America: The First Avenger",
+        "Captain America: The Winter Soldier",
+        "Captain America: Civil War",
+        "Avengers",
+        "Avengers Age of Ultron",
+        "Avengers: Infinity War",
+        "Spider-Man: Homecoming",
+        "Doctor Strange",
+        "Guardians of the Galaxy",
+        "Guardians of the Galaxy: Vol 2"
+    ],
+
+  "imdbRating":[
+      5.7,
+      6.8,
+      7.3,
+      7.3,
+      6.2,
+      7,
+      6.7,
+      7.9,
+      7,
+      7.2,
+      7,
+      7,
+      7.9,
+      6.9,
+      7.8,
+      7.8,
+      8.1,
+      7.4,
+      8.8,
+      7.5,
+      7.5,
+      8.1,
+      7.7
+
+  ],
+
+  "RottenTomatoes":[
+     "62%",
+     "67%",
+     "89%",
+     "93%",
+     "63%",
+     "73%",
+     "52%",
+     "94%",
+     "73%",
+     "80%",
+     "77%",
+     "66%",
+     "92%",
+     "79%",
+     "89%",
+     "91%",
+     "92%",
+     "75%",
+     "83%",
+     "92%",
+     "89%",
+     "91%",
+     "83%"
+],
+
+"year":[
+    2003,
+    2008,
+    2002,
+    2004,
+    2007,
+    2012,
+    2014,
+    2008,
+    2010,
+    2013,
+    2011,
+    2013,
+    2017,
+    2011,
+    2014,
+    2016,
+    2012,
+    2015,
+    2018,
+    2017,
+    2016,
+    2014,
+    2017
+]
+
+
+
+}
+
+
+
+
+
+
+
+]

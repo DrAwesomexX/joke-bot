@@ -1,0 +1,313 @@
+const movieDB = require('../movieDB.json');
+
+
+movieByGenre = (genre)=>{
+
+    const gen = movieDB.find(p => p.genre.toLowerCase() === genre.toLowerCase());
+    if(!gen){
+        return null
+    }
+
+    return gen;
+}
+
+loadMovieGenre = (app)=>{
+
+
+    movieGenreInformation = (req,res) =>{
+
+        const genre = req.body.conversation.memory.genre;
+        const genreInfo = movieByGenre(genre.value);
+        console.log(genre.value);
+        console.log(genre);
+        console.log(genreInfo);
+
+
+        if(!genreInfo){
+
+            res.json({
+                replies:[
+                    {
+                        type:'text',
+                        content:'genre not exist'
+                    }
+                ]
+            })
+        }
+
+        else{
+          return  res.json({
+              
+                replies:[
+                    {
+                        type:'text',
+                        content:`${whatGenre(genreInfo.genre)}`
+                    },
+
+                    {
+                        type:'picture',
+                        content:`${genreInfo.posterurl}`
+                    }
+
+
+                ]
+            })
+        }
+        console.log(genreInfo.genre)
+    }
+
+    whatGenre = (id)=>{
+
+       
+     
+        
+            if(id==='Action'){
+                return  `these are some best action movies`
+
+            }
+    
+
+
+
+        else if(id==='Crime'){
+            return `these are some best crime movies`
+        }
+
+        else if(id==='comedy'){
+            return `these are some besr comedy movies`
+
+        }
+        else if(id==="Sci-fi"){
+            return 'these are some best sci-fi movies'
+        }
+
+    
+
+
+    }
+
+
+}
+
+
+module.exports = loadMovieGenre;
+
+
+
+//
+
+
+
+                   {     type:'picture',
+                        content:`${db[0]}`
+                            
+                       
+                        
+                    },
+
+                    {
+                        type:'picture',
+                        content:`${db[1]}`
+                            
+                       
+                        
+                    },
+
+                    {
+                        type:'picture',
+                        content:`${db[2]}`
+                            
+                       
+                        
+                    },
+
+                    {
+                        type:'picture',
+                        content:`${db[3]}`
+                            
+                       
+                        
+                    },
+
+
+
+
+                    {
+                        type: 'carousel',
+                        content: [
+                          {
+                            title: 'CARD_1_TITLE',
+                            imageUrl: `${db[0]}`,
+                            buttons: [
+                              {
+                                title: 'BUTTON_1_TITLE',
+                                type: 'postback',
+                                value: 'BUTTON_1_VALUE'
+                              }
+                            ]
+                          },
+
+                          {
+                            title: 'CARD_2_TITLE',
+                            imageUrl: `${db[1]}`,
+                            buttons: [
+                              {
+                                title: 'BUTTON_2_TITLE',
+                                type: 'postback',
+                                value: 'BUTTON_2_VALUE'
+                              }
+                            ]
+                          },
+
+                          {
+                            title: 'CARD_3_TITLE',
+                            imageUrl: `${db[2]}`,
+                            buttons: [
+                              {
+                                title: 'BUTTON_3_TITLE',
+                                type: 'postback',
+                                value: 'BUTTON_3_VALUE'
+                              }
+                            ]
+                          },
+                          
+
+                        ]
+                      }
+
+
+
+
+                      {
+                        type: 'list',
+                        content: {
+                          elements: [
+                            {
+                              title:'',
+                              imageUrl: `${db[0]}`,
+                              subtitle:genreInfo.storyline ,
+                              buttons: [
+                                {
+                                  title: 'BUTTON_1_TITLE',
+                                  type: 'postback',
+                                  value: 'BUTTON_1_VALUE'
+                                }
+                              ]
+                            },
+                            {
+                                title:'2',
+                                imageUrl: `${db[1]}`,
+                                subtitle:'ypu' ,
+                                buttons: [
+                                  {
+                                    title: 'BUTTON_2_TITLE',
+                                    type: 'postback',
+                                    value: 'BUTTON_2_VALUE'
+                                  }
+                                ]
+                              },
+                              {
+                                title:genreInfo.title,
+                                imageUrl: `${db[2]}`,
+                                subtitle:'u' ,
+                                buttons: [
+                                  {
+                                    title: 'BUTTON_3_TITLE',
+                                    type: 'postback',
+                                    value: 'BUTTON_3_VALUE'
+                                  }
+                                ]
+                              },
+                              {
+                                title:genreInfo.title,
+                                imageUrl: `${db[3]}`,
+                                subtitle:'yp' ,
+                                buttons: [
+                                  {
+                                    title: 'BUTTON_4_TITLE',
+                                    type: 'postback',
+                                    value: 'BUTTON_4_VALUE'
+                                  }
+                                ]
+                              }
+                          ],
+                        //   buttons: [
+                        //     {
+                        //       title: 'BUTTON_1_TITLE',
+                        //       type: 'postback',
+                        //       value: 'BUTTON_1_VALUE'
+                        //     },{
+                        //         title: 'BUTTON_2_TITLE',
+                        //         type: 'postback',
+                        //         value: 'BUTTON_2_VALUE'
+                        //       },
+                        //       {
+                        //         title: 'BUTTON_3_TITLE',
+                        //         type: 'postback',
+                        //         value: 'BUTTON_3_VALUE'
+                        //       }
+                        //       ,
+                        //       {
+                        //         title: 'BUTTON_4_TITLE',
+                        //         type: 'postback',
+                        //         value: 'BUTTON_4_VALUE'
+                        //       }
+                        //   ],
+                         
+                         
+                        }
+                      }
+
+{
+
+        "title": "The Shape of Water",
+        "year": "2017",
+        "genre":"Drama",     
+        "ratings": [
+            2,
+            9,
+            7,
+            4,
+            8,
+            5,
+            9,
+            8,
+            6,
+            4,
+            5,
+            10,
+            6,
+            6,
+            10,
+            3,
+            5,
+            4,
+            2,
+            4,
+            8,
+            5,
+            10,
+            10,
+            5,
+            5,
+            7,
+            2,
+            6,
+            3
+        ],
+        "poster": "MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY500_CR0,0,337,500_AL_.jpg",
+        "contentRating": "15",
+        "duration": "PT123M",
+        "releaseDate": "2018-02-14",
+        "averageRating": 0,
+        "originalTitle": "",
+        "storyline": "From master storyteller Guillermo del Toro comes THE SHAPE OF WATER, an otherworldly fable set against the backdrop of Cold War era America circa 1962. In the hidden high-security government laboratory where she works, lonely Elisa (Sally Hawkins) is trapped in a life of isolation. Elisa's life is changed forever when she and co-worker Zelda (Octavia Spencer) discover a secret classified experiment. Rounding out the cast are Michael Shannon, Richard Jenkins, Michael Stuhlbarg, and Doug Jones.                Written by\nFox Searchlight Pictures",
+        "actors": [
+            "Sally Hawkins",
+            "Octavia Spencer",
+            "Michael Shannon"
+        ],
+        "imdbRating": 7.8,
+        "posterurl": "http://www.pieuvre.ca/wp-content/uploads/2017/12/teaser_title_printgrade_v001-1.jpg"
+    },
+                   
